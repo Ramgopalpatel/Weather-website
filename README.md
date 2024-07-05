@@ -6,10 +6,13 @@ HTML:
 
 The HTML structure includes a container div with a heading, input field, button, and a div for displaying the weather result.
 The JavaScript file is linked at the end of the body.
+
 CSS:
 
 Basic styles for the body, container, heading, input field, button, and weather result are defined.
 The layout is centered with a white background for the container.
+
+
 JavaScript:
 
 An event listener is added to the button, which triggers a function to fetch weather data when clicked.
